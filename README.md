@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @kevinominipotent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kevinominipotent/kevinominipotent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-大家好，我是醒来的成员正在学习google
+👋 Hi, I’m @kevinominipotent
+👀 I’m interested in AI algorithm research, time‑series signal processing, neural operator modeling, knowledge‑graph‑enhanced recommendation systems, and engineering simulation & scheduling optimization. I’m also fascinated by turning complex real‑world engineering problems into verifiable data‑driven solutions.
+🌱 I’m currently learning advanced deep‑learning architectures, aerodynamic field prediction, and end‑to‑end full‑cycle project delivery. As an INTJ‑T personality, I tend to focus on systematic framework design, logical deduction, and rigorous experimental validation rather than superficial trial‑and‑error.
+💞️ I’m looking to collaborate on scientific research projects, AI‑driven prediction modeling, time‑series analysis tasks, knowledge‑graph recommendation work, as well as simulation‑based scheduling system development. I enjoy brainstorming framework ideas, designing ablation experiments, and polishing manuscripts or technical deliverables together.
+📫 How to reach me: Email: 1440654393@qq.com | Phone: 18705276275
+😄 Pronouns: He / Him
+⚡ Fun fact: I am a senior undergraduate majoring in Computer Science, admitted for postgraduate AI study at Shanghai University (211/Double First‑Class). I love mathematical modeling competitions and have won multiple national & international modeling awards. I am good at decomposing tangled practical problems into structured, testable technical paths, which fits well with the typical INTJ thinking pattern.
